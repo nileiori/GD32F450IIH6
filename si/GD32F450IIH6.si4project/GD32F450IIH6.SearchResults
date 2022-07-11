@@ -1,0 +1,2 @@
+---- ARM1_TO_ARM2_IO Matches (1 in 1 files) ----
+main.c (mdk) line 59 : #define	ARM1_TO_ARM2_IO		GD32F450_PE4_PIN_NUM

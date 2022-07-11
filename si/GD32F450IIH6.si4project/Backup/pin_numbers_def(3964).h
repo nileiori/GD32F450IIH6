@@ -1,0 +1,16 @@
+#ifndef PIN_NUMBERS_DEF_H__
+#define PIN_NUMBERS_DEF_H__
+
+
+
+#define	GD32F450_PE2_PIN_NUM	1
+#define	GD32F450_PE3_PIN_NUM	2
+#define	GD32F450_PA4_PIN_NUM	40
+
+#define	GD32F450_PG14_PIN_NUM	129
+#define	GD32F450_PB4_PIN_NUM	134
+
+
+
+#endif
+

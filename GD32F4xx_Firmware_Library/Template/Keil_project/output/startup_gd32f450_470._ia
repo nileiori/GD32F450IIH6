@@ -1,0 +1,6 @@
+--cpu Cortex-M4.fp -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\Inc\GD\GD32F4xx
+--pd "__UVISION_VERSION SETA 523"
+--list .\list\startup_gd32f450_470.lst --xref -o .\output\startup_gd32f450_470.o --depend .\output\startup_gd32f450_470.d "..\..\Firmware\CMSIS\GD\GD32F4xx\Source\ARM\startup_gd32f450_470.s"
